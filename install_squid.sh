@@ -12,6 +12,6 @@ touch /etc/squid/allowed_ips.txt
 
 echo "===========INSTALLATION COMPLETE============"
 echo "You can add your whitelisted ip to /etc/squid/allowed_ips.txt"
-echo "Squid Port: 6969"
+echo "Squid Port: 6789"
 echo "Once done run: systemctl restart squid"
 echo "============================================"
