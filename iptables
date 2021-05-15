@@ -1,1 +1,1 @@
--A INPUT -p tcp -m tcp --dport 6969 -j ACCEPT
+-A INPUT -p tcp -m tcp --dport 6789 -j ACCEPT
