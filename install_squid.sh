@@ -1,4 +1,4 @@
-yum install -y squid iptables-service nano
+yum install -y squid iptables nano
 systemctl start squid
 systemctl enable squid
 systemctl status squid
