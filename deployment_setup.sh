@@ -18,5 +18,5 @@ source ~/.bashrc
 
 nvm install --lts
 
-sudo apt install nginx
+sudo apt install nginx -y
 
