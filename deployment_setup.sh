@@ -45,3 +45,6 @@ sudo usermod -aG docker $USER
 
 # run postgres (optional)
 docker run -d -p 2345:5432 -e POSTGRES_PASSWORD=getarctype postgres
+
+# install pm2
+pn install -g pm2
