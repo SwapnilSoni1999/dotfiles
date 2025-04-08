@@ -3,7 +3,7 @@ sudo apt update -y
 sudo apt upgrade -y
 
 # install ohmyzsh
-sudo apt install zsh fzf
+sudo apt install zsh fzf git
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 # install zsh packages
